@@ -13,15 +13,11 @@ The objective is to transform raw data into meaningful insights that support bet
 
 ## Dataset
 
-- **Dataset:** [Dataset Name]
+- **Dataset:** customer_shopping_behavior.csv
 - **Format:** CSV
 - **Source:** Kaggle / Company Data / Public Dataset
-- **Records:** XXXX
-- **Features:** XX
-
-> Replace the above information with your dataset details.
-
----
+- **Records:** 3900
+- **Features:** - Customer demographics (Age, Gender, Location, Subscription Status) - Purchase details (Item Purchased,                     Category, Purchase Amount, Season, Size, Color) - Shopping behavior (Discount Applied, Promo Code Used,                    Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type) - Missing Data: 37 values in                     Review Rating column 
 
 ## Project Workflow
 
@@ -210,9 +206,6 @@ PowerBI/Dashboard.pbix
 ---
 
 ## Author
+Shivam Avichal
 
-**Your Name**
 
-LinkedIn: https://linkedin.com/in/your-profile
-
-GitHub: https://github.com/your-username
