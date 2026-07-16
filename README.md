@@ -15,9 +15,9 @@ The objective is to transform raw data into meaningful insights that support bet
 
 - **Dataset:** customer_shopping_behavior.csv
 - **Format:** CSV
-- **Source:** Kaggle / Company Data / Public Dataset
+- **Source:** Public Dataset
 - **Records:** 3900
-- **Features:** - Customer demographics (Age, Gender, Location, Subscription Status) - Purchase details (Item Purchased,                     Category, Purchase Amount, Season, Size, Color) - Shopping behavior (Discount Applied, Promo Code Used,                    Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type) - Missing Data: 37 values in                     Review Rating column 
+- **Features:** - Customer demographics (Age, Gender, Location, Subscription Status) - Purchase details (Item Purchased,Category, Purchase Amount, Season, Size, Color) - Shopping behavior (Discount Applied, Promo Code Used,Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type) - Missing Data: 37 values in Review Rating column 
 
 ## Project Workflow
 
@@ -69,8 +69,6 @@ Prepared a report summarizing:
 ### 7. Presentation
 Created a professional presentation using **Gamma** to communicate project objectives, methodology, insights, and conclusions.
 
----
-
 ## Tools & Technologies
 
 - Python
@@ -81,9 +79,6 @@ Created a professional presentation using **Gamma** to communicate project objec
 - SQL
 - Power BI
 - Gamma
-- Jupyter Notebook
-
----
 
 ## Dashboard
 
@@ -96,8 +91,6 @@ The Power BI dashboard provides:
 - Performance Insights
 - Business Metrics
 
----
-
 ## Results
 
 The project successfully:
@@ -109,9 +102,7 @@ The project successfully:
 - Generated a business report.
 - Presented findings in a professional presentation.
 
-The analysis helps stakeholders understand data trends and supports data-driven decision-making.
-
----
+The analysis helps stakeholders understand data trends and supports data-driven decision-making.-
 
 ## Project Structure
 
